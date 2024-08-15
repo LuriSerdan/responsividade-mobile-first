@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto sobre a rewgra mobile first" src="./responsividade-mobile-first/images/mobile.png" width="100%">
+  <img alt="projeto sobre a regra mobile first" src="./images/mobile.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
